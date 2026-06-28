@@ -1,0 +1,14 @@
+# Secret configuration files
+db.php
+config.php
+secrets.h
+.env
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Temporary files
+*.log
+*.tmp
