@@ -23,7 +23,6 @@ This project is an ESP32-based indoor monitoring system developed for the Sensor
 - OLED SSD1306 display
 - Buzzer
 - Push button
-- Sound sensor
 
 ## Project Structure
 
